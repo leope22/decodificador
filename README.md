@@ -1,3 +1,15 @@
-# Decodificador de Texto
+# Criptografador de Texto
 
-Este é um projeto simples de criptografia de texto, desenvolvido utilizando HTML, CSS e JavaScript. A interface permite ao usuário criptografar e descriptografar um texto usando uma lógica de substituição de caracteres, além de copiar o resultado criptografado ou descriptografado.
+Um codificador de texto simples que criptografa e descriptografa mensagens com base em regras de substituição de vogais. O projeto foi feito com HTML, CSS e JavaScript puros.
+
+### Regras de Criptografia
+-   `a` → `ai`
+-   `e` → `enter`
+-   `i` → `imes`
+-   `o` → `ober`
+-   `u` → `ufat`
+
+**Atenção:** Funciona apenas com letras minúsculas e sem acentos.
+
+### Como Usar
+Baixe os arquivos e abra o `index.html` no seu navegador.
